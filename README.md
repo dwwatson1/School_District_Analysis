@@ -46,15 +46,12 @@ The school summary comparison demonstrates that Thomas High School was the only 
 The top five ranked performing schools (highest % overall passing) in the district remained unchanged after replacing Thomas High School scores and running the new analysis. The school retained its second-place position in the district.
 
 ### How does replacing the ninth-grade scores affect math and reading scores by grade?
-#### Original Analysis
-
-##### Math and Reading
+#### Original Analysis - Math and Reading
 
 ![math_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_original.PNG)    ![reading_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_original.PNG)
 
-#### New Analysis
+#### New Analysis - Math and Reading
 
-##### Math and Reading
 ![math_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_new.PNG)    ![reading_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_new.PNG)
 
 #### Comparison
