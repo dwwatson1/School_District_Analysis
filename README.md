@@ -30,7 +30,7 @@ The district summary comparison shows that the metrics hardly changed when the s
 ![schoool_summary_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/schoool_summary_new.PNG)
 
 #### Comparison
-The school summary comparison demonstrates that Thomas High School was the only school with metrics affected by the score replacement. However, the minor changes in **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** were **>0.10** for average grades categories **>0.35%** for % passing categories. 
+The school summary comparison demonstrates that Thomas High School was the only school with metrics affected by the score replacement. However, the minor changes in **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** were **>0.10** for average grades categories **>0.35** for % passing categories. 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Original Analysis
@@ -97,12 +97,15 @@ By answering these key questions above, we found that there were a few minor cha
 * **Average Reading Score**
   * 83.85 to 83.90 (increased by 0.05)
 * **% Passing Math**
-  * 93.27% to 93.19% (lowered by 0.08%)
+  * 93.27 to 93.19 (lowered by 0.08)
 * **% Passing Reading**
-  * 97.31% to 97.02 (lowered by 0.29%)
+  * 97.31 to 97.02 (lowered by 0.29%)
 * **% Overall Passing**
-  * 90.95% to 90.63% (lowered by 0.32%)
+  * 90.95 to 90.63 (lowered by 0.32)
 
-### Important Thing to Not
+### Important Thing to Note
 Had we not assigned Thomas High School 9th graders scores as NaN and not replaced **% Passing Math**, **% Passing Reading**, and **% Overall Passing** values, the school summary for Thomas High School would have looked like the following:
 
+![school_summary_no_replace](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_summary_no_replace.PNG)
+
+As you can see, if we hadn't kept the data intact after replacing 9th grade scores, like we were asked to by the school board, Thomas High School's district ranking would've declined well below the top 5 (Pena High School is #5 with an % overall passing of 90.54). The **% Passing Math**, **% Passing Reading**, and **% Overall Passing** values were 66.91%, 69.66%, and 65.07%, respectively. The steps we took in our new analysis, with the school board's guidance, prevented a localized occurance of academic dishonesty from being detrimental to Thomas High School's reputation and standing among PyCity District Schools.     
