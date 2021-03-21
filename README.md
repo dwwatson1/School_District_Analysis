@@ -44,19 +44,12 @@ By answering key questions about the data, I will present how my [original analy
 
 ##### Math and Reading
 
-Math  |  Reading
 ![math_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_original.PNG)  |  ![reading_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_original.PNG)
-
-##### Reading
-
 
 #### New Analysis
 
-##### Math
-![math_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_new.PNG)
-
-##### Reading
-![reading_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_new.PNG)
+##### Math and Reading
+![math_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_new.PNG)  |  ![reading_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_new.PNG)
 
 #### Comparison
 
