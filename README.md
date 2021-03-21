@@ -1,4 +1,4 @@
-# School District Analysis
+# PyCity School District Analysis
 
 ## Overview of the Analysis
 
@@ -85,7 +85,7 @@ The school size comparison shows that the **Average Math Score**, **Average Read
 ![school_type_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_type_new.PNG)
 
 #### Comparison
-The school size comparison demonstrates that the **Average Math Score**, **Average Reading Score**, **% Passing Math*, **% Passing Reading**, and **% Overall Passing** remained unchanged from the original to the new analysis.
+The school size comparison demonstrates that the **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** remained unchanged from the original to the new analysis.
 
 ## Summary of the Analysis
 ### Overview
@@ -102,4 +102,7 @@ By answering these key questions above, we found that there were a few minor cha
   * 97.31% to 97.02 (lowered by 0.29%)
 * **% Overall Passing**
   * 90.95% to 90.63% (lowered by 0.32%)
+
+### Important Thing to Not
+Had we not assigned Thomas High School 9th graders scores as NaN and not replaced **% Passing Math**, **% Passing Reading**, and **% Overall Passing** values, the school summary for Thomas High School would have looked like the following:
 
