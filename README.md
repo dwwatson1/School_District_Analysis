@@ -42,9 +42,10 @@ By answering key questions about the data, I will present how my [original analy
 ### How does replacing the ninth-grade scores affect math and reading scores by grade?
 #### Original Analysis
 
-##### Math  |  Reading
-:-------------------------:|:-------------------------:
-[math_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_original.PNG)  |  ![reading_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_original.PNG)
+##### Math and Reading
+
+Math  |  Reading
+![math_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_original.PNG)  |  ![reading_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_original.PNG)
 
 ##### Reading
 
