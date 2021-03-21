@@ -30,7 +30,7 @@ The district summary comparison shows that the metrics hardly changed when the s
 ![schoool_summary_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/schoool_summary_new.PNG)
 
 #### Comparison
-The school summary comparison demonstrates that Thomas High School was the only school with metrics affected by the score replacement. However, the minor changes in **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** were **>0.3%**. 
+The school summary comparison demonstrates that Thomas High School was the only school with metrics affected by the score replacement. However, the minor changes in **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** were **>0.10** for average grades categories **>0.35%** for % passing categories. 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Original Analysis
@@ -89,11 +89,17 @@ The school size comparison demonstrates that the **Average Math Score**, **Avera
 
 ## Summary of the Analysis
 ### Overview
-By answering these key questions above, we found that there were very few changes in metrics after we ran the new analysis. The changes from the original to new analysis are listed below:
+By answering these key questions above, we found that there were a few minor changes in Thomas High School metrics after we ran the new analysis. Those differences from the original to new analysis are listed below.
 
+### Thomas High School Metrics Differences
 * **Average Math Score**
+  * 83.42 to 83.35 (lowered by 0.07)
 * **Average Reading Score**
+  * 83.85 to 83.90 (increased by 0.05)
 * **% Passing Math**
+  * 93.27% to 93.19% (lowered by 0.08%)
 * **% Passing Reading**
+  * 97.31% to 97.02 (lowered by 0.29%)
 * **% Overall Passing**
+  * 90.95% to 90.63% (lowered by 0.32%)
 
