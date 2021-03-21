@@ -14,38 +14,76 @@ By answering key questions about the data, I will present how my [original analy
 
 ### How is the district summary affected?
 #### Original Analysis
+![district_summary_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/district_summary_original.PNG)
 
 #### New Analysis
+![district_summary_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/district_summary_new.PNG)
+
+#### Comparison
 
 ### How is the school summary affected?
 #### Original Analysis
+![school_summary_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_summary_original.PNG)
 
 #### New Analysis
+![school_summary_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_summary_new.PNG)
+
+#### Comparison
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Original Analysis
+![top_five_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/top_five_original.PNG)
 
 #### New Analysis
+![top_five_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/top_five_new.PNG)
 
-### How does replacing the ninth-grade scores affect math and reading scores by grade
+#### Comparison
+
+### How does replacing the ninth-grade scores affect math and reading scores by grade?
 #### Original Analysis
 
+##### Math
+![math_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_original.PNG)
+
+##### Reading
+![reading_scores_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_original.PNG)
+
 #### New Analysis
 
-### How does replacing the ninth-grade scores by school spending
+##### Math
+![math_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_new.PNG)
+
+##### Reading
+![reading_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_new.PNG)
+
+#### Comparison
+
+### How does replacing the ninth-grade scores by school spending?
 #### Original Analysis
+![school_spending_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_spending_original.PNG)
 
 #### New Analysis
+![school_spending_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_spending_new.PNG)
 
-### How does replacing the ninth-grade scores by school size
+#### Comparison
+
+### How does replacing the ninth-grade scores by school size?
 #### Original Analysis
+![school_size_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_size_original.PNG)
 
 #### New Analysis
+![school_size_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_size_new.PNG)
 
-### How does replacing the ninth-grade scores by school type
+#### Comparison
+
+### How does replacing the ninth-grade scores by school type?
 #### Original Analysis
+![school_type_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_type_original.PNG)
 
 #### New Analysis
+![school_type_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_type_new.PNG)
+
+#### Comparison
 
 ## Summary of the Analysis
 
