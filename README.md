@@ -15,7 +15,7 @@ When we re-ran our analysis for the school board, we needed to replace Thomas Hi
 
 By answering key questions about the data, I will present how my [original analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools.ipynb) compares to our [new analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) with 9th grade Thomas High School scores set to NaN.  
 
-### How is the district summary affected?
+### How is the district summary affected?or
 #### Original Analysis
 ![district_summary_original](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/district_summary_original.PNG)
 
@@ -111,4 +111,4 @@ Had we not assigned Thomas High School 9th graders scores as NaN and not replace
 
 ![school_summary_no_replace](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_summary_no_replace.PNG)
 
-As you can see, if we hadn't kept the data intact after replacing 9th-grade scores, like we were asked to by the school board, Thomas High School's district ranking would've declined well below the top 5 (Pena High School is #5 with an % overall passing of 90.54). The **% Passing Math**, **% Passing Reading**, and **% Overall Passing** values were 66.91%, 69.66%, and 65.07%, respectively. The steps we took in our new analysis, with the school board's guidance, prevented a localized occurence of academic dishonesty from being detrimental to Thomas High School's reputation and standing among PyCity District Schools.     
+As you can see, if we hadn't kept the data intact after replacing 9th-grade scores, like we were asked to by the school board, Thomas High School's district ranking would've declined well below the top 5 (Pena High School is #5 with an % overall passing of 90.54). The **% Passing Math**, **% Passing Reading**, and **% Overall Passing** values were 66.91%, 69.66%, and 65.07%, respectively. The steps we took in our new analysis, with the school board's guidance, prevented a localized occurrence of academic dishonesty from being detrimental to Thomas High School's reputation and standing among PyCity District Schools.     
