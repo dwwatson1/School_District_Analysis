@@ -20,6 +20,7 @@ By answering key questions about the data, I will present how my [original analy
 ![district_summary_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/district_summary_new.PNG)
 
 #### Comparison
+The district summary comparison shows that the metrics hardly changed when the scores were replaced. **% Passing Math** dropped by **0.2%**, **% Passing Reading** dropped by **0.1%**, and **% Overall Passing** dropped by **0.3%**. 
 
 ### How is the school summary affected?
 #### Original Analysis
@@ -29,6 +30,7 @@ By answering key questions about the data, I will present how my [original analy
 ![schoool_summary_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/schoool_summary_new.PNG)
 
 #### Comparison
+The school summary comparison demonstrates that Thomas High School was the only school with metrics affected by the score replacement. However, the minor changes in **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** were **>0.3%**. 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Original Analysis
@@ -38,6 +40,7 @@ By answering key questions about the data, I will present how my [original analy
 ![top_five_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/top_five_new.PNG)
 
 #### Comparison
+The ranking of top five performing schools (highest % overall passing) in the district remained unchanged after replacing Thomas High School scores and running the new analysis. The school retained its second place position in the district.
 
 ### How does replacing the ninth-grade scores affect math and reading scores by grade?
 #### Original Analysis
@@ -52,6 +55,7 @@ By answering key questions about the data, I will present how my [original analy
 ![math_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/math_scores_new.PNG)    ![reading_scores_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/reading_scores_new.PNG)
 
 #### Comparison
+The comparison above shows that the average math score of **83.6** and the average reading score of  **83.7** for Thomas High School 9th graders were affected and replaced with NaN. No other scores were affected.
 
 ### How does replacing the ninth-grade scores by school spending?
 #### Original Analysis
@@ -61,6 +65,7 @@ By answering key questions about the data, I will present how my [original analy
 ![school_spending_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_spending_new.PNG)
 
 #### Comparison
+The school spending comparison demonstrates that the **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** remained unchanged from the original to the new analysis.
 
 ### How does replacing the ninth-grade scores by school size?
 #### Original Analysis
@@ -70,6 +75,7 @@ By answering key questions about the data, I will present how my [original analy
 ![school_size_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_size_new.PNG)
 
 #### Comparison
+The school size comparison shows that the **Average Math Score**, **Average Reading Score**, **% Passing Math**, **% Passing Reading**, and **% Overall Passing** remained unchanged from the original to the new analysis.
 
 ### How does replacing the ninth-grade scores by school type?
 #### Original Analysis
@@ -79,6 +85,15 @@ By answering key questions about the data, I will present how my [original analy
 ![school_type_new](https://github.com/dwwatson1/School_District_Analysis/blob/main/Resources/school_type_new.PNG)
 
 #### Comparison
+The school size comparison demonstrates that the **Average Math Score**, **Average Reading Score**, **% Passing Math*, **% Passing Reading**, and **% Overall Passing** remained unchanged from the original to the new analysis.
 
 ## Summary of the Analysis
+### Overview
+By answering these key questions above, we found that there were very few changes in metrics after we ran the new analysis. The changes from the original to new analysis are listed below:
+
+* **Average Math Score**
+* **Average Reading Score**
+* **% Passing Math**
+* **% Passing Reading**
+* **% Overall Passing**
 
