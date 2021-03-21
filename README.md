@@ -10,7 +10,7 @@ The PyCity School Board notified us that there is evidence of academic dishonest
 
 When we re-ran our analysis for the school board, we needed to replace Thomas High School 9th grader math and reading scores with NaN values. We made this determination because the board agrees that this data is unpresentable (academic dishonesty disqualified it) and we need to keep the 10th through 12th grade data intact. If we replaced those scores with 0 instead of NaN, the 9th grade 0 scores would have greatly skewed the score averages and the percentages of students passing much lower for Thomas High School.
 
-Below, I will present how my [original analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools.ipynb) compares to our [new analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) with 9th grade Thomas High School scores set to NaN.
+By answering key questions about the data, I will present how my [original analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools.ipynb) compares to our [new analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) with 9th grade Thomas High School scores set to NaN.
 
 ### How is the district summary affected?
 #### Original Analysis
@@ -27,27 +27,22 @@ Below, I will present how my [original analysis](https://github.com/dwwatson1/Sc
 
 #### New Analysis
 
-### How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect math and reading scores by grade
 #### Original Analysis
 
 #### New Analysis
 
-### Math and reading scores by grade
+### How does replacing the ninth-grade scores by school spending
 #### Original Analysis
 
 #### New Analysis
 
-### Scores by school spending
+### How does replacing the ninth-grade scores by school size
 #### Original Analysis
 
 #### New Analysis
 
-### Scores by school size
-#### Original Analysis
-
-#### New Analysis
-
-### Scores by school type
+### How does replacing the ninth-grade scores by school type
 #### Original Analysis
 
 #### New Analysis
